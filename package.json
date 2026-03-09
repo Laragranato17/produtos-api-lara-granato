@@ -6,7 +6,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "author": "Lara Granato",
+  "license": "MIT",
+  "description": "Api de produtos do sistema de ecomerce"
 }
+
+
