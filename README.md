@@ -11,3 +11,10 @@ nps run dev
 Servidor roda em: 
 http://localhost:3000
 
+| Método | Endpoint | Descrição |
+|------|------|------|
+| GET | /api/v1/produtos | lista produtos |
+| GET | /api/v1/produtos/:id | busca produto |
+| POST | /api/v1/produtos | cria produto |
+| PUT | /api/v1/produtos/:id | atualiza produto |
+| DELETE | /api/v1/produtos/:id | remove produto |
